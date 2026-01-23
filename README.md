@@ -4,6 +4,6 @@
 
 # Óla sou o Jandeson!
 ### Desenvolvedor front-Ent em formação
--Estudante focado em **HTML5** e **CSS3** pelo Curso em Video
--Desenvolvendo projetos práticos para as áreas de Saúde e Finanças.
+- Estudante focado em **HTML5** e **CSS3** pelo **Curso** em **Video**
+- Desenvolvendo projetos práticos para as áreas de **Saúde** e **Finanças**.
 </div>
