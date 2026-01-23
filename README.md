@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Jandeson.jfif" width="100%">
+<img src="jandeson.png" width="100%">
 
 
 # Óla sou o Jandeson!
