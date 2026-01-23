@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Jandeson" width="100%">
+<img src="Jandeson.png" width="100%">
 </div>
 
 # Óla sou o Jandeson!
