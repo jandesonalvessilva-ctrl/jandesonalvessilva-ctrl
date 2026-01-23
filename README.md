@@ -2,8 +2,8 @@
 <img src="jandeson.png" width="70%">
 
 
-# Óla sou o Jandeson!
-### Desenvolvedor front-Ent em formação
+# "Óla sou o Jandeson"!
+### Desenvolvedor front-End em formação
 - Estudante focado em **HTML5** e **CSS3** pelo **Curso** em **Video**
 - Desenvolvendo projetos práticos para as áreas de **Saúde** e **Finanças**.
 </div>
