@@ -7,6 +7,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html&logocolor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logocolor=white)
 
+​"Atualmente em preparação intensiva para a Piscina da 42 São Paulo, focado em dominar algoritmos e a Linguagem C."
+
 - Estudante focado em **HTML5** e **CSS3** pelo **Curso** em **Video**
 - Desenvolvendo projetos práticos para as áreas de **Saúde** e **Finanças**.
 </div>
