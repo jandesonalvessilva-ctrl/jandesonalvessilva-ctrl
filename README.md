@@ -11,4 +11,6 @@
 
 - Estudante focado em **HTML5** e **CSS3** pelo **Curso** em **Video**
 - Desenvolvendo projetos práticos para as áreas de **Saúde** e **Finanças**.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jandesonalvessilva-ctrl)](https://github.com/anuraghazra/github-readme-stats)
 </div>
